@@ -46,6 +46,19 @@ This project performs exploratory data analysis (EDA) on Delhi’s air quality d
 * Found relationships between pollutants
 
 ---
+### Delhi AQI Raw Dataset Used:
+
+- <a href="https://github.com/laganmehra875/Shadow-Fox-internship-project/blob/main/delhiaqi.csv"> Raw Dataset used :Delhi AQI
+
+## Delhi AQI File PDF:
+- <a href="https://github.com/laganmehra875/Shadow-Fox-internship-project/blob/main/intermideate%20level%20projeect.pdf"> PDF FIle :Delhi AQI
+
+## Delhi AQI Project jupyter file :
+- <a href="https://github.com/laganmehra875/Shadow-Fox-internship-project/blob/main/Intermediate%20.ipynb"> Delhi AQI Python Project
+
+
+---
+
 
 ### 📊 Business Insights from AQI Analysis
 
@@ -146,7 +159,7 @@ Air pollution is not a short-term issue → it's a **chronic urban problem**
   * Real-time AQI
   * Health recommendations
 
-
+---
 
 
 
